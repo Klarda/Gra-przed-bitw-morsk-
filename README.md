@@ -1,3 +1,5 @@
+# Gra przed bitwą morska
+## Instrukcja
 Na pustych polach diagramu należy rozmieścić flotyllę złożoną z dziesięciu okrętów: jednego pancernika - zajmującego cztery kratki, 
 dwóch krążowników - zajmujących po trzy kratki, trzech niszczycieli - każdy mieści się na dwóch kratkach i czterech łodzi podwodnych - każda w jednej kratce. 
 Cyfra w danym polu wskazuje, ile sąsiednich pól (mających wspólny bok z polem z cyfrą) ma być zajętych przez części floty. 
